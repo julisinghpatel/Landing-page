@@ -1,0 +1,59 @@
+body{
+    background-color:  rgb(164, 232, 164);
+}
+table{
+    margin: auto;
+   }
+   fieldset{
+    width: 400px;
+    height: 330px;
+    background-color: white;
+    border-color: orangered;
+   }    
+#line{
+  
+    background-color:rgb(161, 6, 6); 
+                color:white; 
+                font-size:40px;
+                text-align:center;
+}
+/* .body-container{
+    width: 40%;
+    margin-right: 60px;
+    background-color: white;
+    margin: 50px auto;
+} */
+.btn{
+    background-color: rgb(16, 151, 16);
+        color: white;
+        border-color: green;
+        border-radius: 10px;
+        font-size: 1.8rem;
+        font-weight: 500;
+        margin: 1rem 0;
+        padding: 1rem 3rem;
+        cursor: pointer;
+}
+    .btn1{
+        background-color: rgb(16, 151, 16);
+        color: white;
+        border-color: green;
+        border-radius: 10px;
+        font-size: 1.8rem;
+        font-weight: 500;
+        margin: 1rem 0;
+        padding: 1rem 3rem;
+        cursor: pointer;"
+    }
+    .btn2{
+        background-color: rgb(16, 151, 16);
+        color: white;
+        border-color: green;
+        border-radius: 10px;
+        font-size: 1.8rem;
+        font-weight: 500;
+        margin: 1rem 0;
+        padding: 1rem 3rem;
+        cursor: pointer;"
+    }
+    
